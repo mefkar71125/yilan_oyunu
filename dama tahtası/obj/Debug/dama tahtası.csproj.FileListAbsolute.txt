@@ -1,0 +1,9 @@
+C:\Users\mefkar\source\repos\dama tahtası\dama tahtası\bin\Debug\dama tahtası.exe.config
+C:\Users\mefkar\source\repos\dama tahtası\dama tahtası\bin\Debug\dama tahtası.exe
+C:\Users\mefkar\source\repos\dama tahtası\dama tahtası\bin\Debug\dama tahtası.pdb
+C:\Users\mefkar\source\repos\dama tahtası\dama tahtası\obj\Debug\dama tahtası.csprojAssemblyReference.cache
+C:\Users\mefkar\source\repos\dama tahtası\dama tahtası\obj\Debug\dama_tahtası.Form1.resources
+C:\Users\mefkar\source\repos\dama tahtası\dama tahtası\obj\Debug\dama_tahtası.Properties.Resources.resources
+C:\Users\mefkar\source\repos\dama tahtası\dama tahtası\obj\Debug\dama tahtası.csproj.GenerateResource.cache
+C:\Users\mefkar\source\repos\dama tahtası\dama tahtası\obj\Debug\dama tahtası.exe
+C:\Users\mefkar\source\repos\dama tahtası\dama tahtası\obj\Debug\dama tahtası.pdb
